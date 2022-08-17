@@ -1,5 +1,27 @@
 # eWPT Preparation by Joas
 
+## Agenda:
+
+1. [Recon and Enumeration Domain](https://github.com/CyberSecurityUP/eWPT-Preparation#recon-and-enumeration-domain)
+1. [Social Networks](https://github.com/CyberSecurityUP/eWPT-Preparation#social-networks)
+1. [Wordpress Attacks and Other CMS Vulnerability](https://github.com/CyberSecurityUP/eWPT-Preparation#wordpress-attacks-and-other-cms-vulnerability)
+1. [BurpSuite](https://github.com/CyberSecurityUP/eWPT-Preparation#burpsuite)
+1. [ClickJacking Attacking](https://github.com/CyberSecurityUP/eWPT-Preparation#clickjacking-attacking)
+1. [Session Hijacking](https://github.com/CyberSecurityUP/eWPT-Preparation#session-hijacking)
+1. [FingerPrinting](https://github.com/CyberSecurityUP/eWPT-Preparation#fingerprinting)
+1. [SQL Injection & Types and SQLMap](https://github.com/CyberSecurityUP/eWPT-Preparation#sql-injection--types-and-sqlmap)
+1. [CSRF](https://github.com/CyberSecurityUP/eWPT-Preparation#csrf)
+1. [Crawling and Spidering](https://github.com/CyberSecurityUP/eWPT-Preparation#crawling-and-spidering)
+1. [Reviews](https://github.com/CyberSecurityUP/eWPT-Preparation#reviews)
+1. [Web Application Fundamentals](https://github.com/CyberSecurityUP/eWPT-Preparation#web-application-fundamentals)
+1. [XSS and BeeF](https://github.com/CyberSecurityUP/eWPT-Preparation#xss-and-beef)
+1. [Vulnerability Analysis](https://github.com/CyberSecurityUP/eWPT-Preparation#vulnerability-analysis)
+1. [User Enumeration and Brute Force & Bypass Attack](https://github.com/CyberSecurityUP/eWPT-Preparation#user-enumeration-and-brute-force--bypass-attack)
+1. [XPath injection with XCAT](https://github.com/CyberSecurityUP/eWPT-Preparation#xpath-injection-with-xcat)
+1. [SOAP Attacks](https://github.com/CyberSecurityUP/eWPT-Preparation#soap-attacks)
+1. [File and Resource Attacks](https://github.com/CyberSecurityUP/eWPT-Preparation#file-and-resource-attacks)
+
+
 ## Recon and Enumeration Domain 
 
 ### https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6
